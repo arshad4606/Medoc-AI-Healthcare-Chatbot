@@ -1,4 +1,4 @@
-# Medoc-AI-Healthcare-Chatbot
+![image](https://github.com/user-attachments/assets/7d9ae2da-41c2-45a9-8b99-39870f260c3b)# Medoc-AI-Healthcare-Chatbot
 Medoc is an AI Healthcare Chatbot is designed to provide users with general health guidance based on their symptoms. It asks symptom-related questions, suggests home remedies, and advises when to consult a doctor. The chatbot ensures high accuracy, low latency (under 8 seconds response time), and minimal token usage (≤5000 tokens per request)
 
 Detailed view: 
@@ -13,6 +13,9 @@ This project is optimized for:
  •	Minimal Token Usage: Uses ≤5000 tokens per request to optimize efficiency.
 
 Features
+
+ It has the knowledge of the  following subjects 
+![image](https://github.com/user-attachments/assets/3c1e43a7-1161-4f18-bc36-341621084183)
  
  Symptom-Based Querying
 	
@@ -54,7 +57,7 @@ Implementation Details
 	
  •	Frameworks & Libraries:
 	
- •	NLP & AI: MedChat LLaMA 3
+ •	NLP & AI: MediChat LLaMA 3
 	
  •	UI/UX: Chainlit
 	
@@ -72,16 +75,19 @@ System Workflow
 2. Symptom Analysis
 	
  •	Uses an AI model to analyze the symptoms and ask follow-up questions.
+ 
 3. Retrieval-Augmented Generation (RAG) Optimization
 	
  •	Searches a structured database for relevant responses.
 	
  •	Uses embeddings to rank and retrieve the most accurate answer.
+ 
 4. Response Generation
 	
  •	The chatbot provides a concise, fact-based response.
 	
  •	If necessary, suggests home remedies or medical consultation.
+
 5. Chainlit UI Integration
 	
  •	The response is displayed interactively using Chainlit.
@@ -92,7 +98,7 @@ System Workflow
 	
  •	Augmentation Step: Enhances the response with additional context.
 	
- •	Generation Step: Uses MedChat LLaMA 3 to generate a natural-language response.
+ •	Generation Step: Uses MediChat LLaMA 3 to generate a natural-language response.
 
  Performance Optimization
 	
