@@ -1,5 +1,6 @@
 # Medoc-AI-Healthcare-Chatbot
 Medoc is an AI Healthcare Chatbot is designed to provide users with general health guidance based on their symptoms. It asks symptom-related questions, suggests home remedies, and advises when to consult a doctor. The chatbot ensures high accuracy, low latency (under 8 seconds response time), and minimal token usage (≤5000 tokens per request)
+
 Detailed view: 
      Medoc AI Healthcare Chatbot is an AI-powered conversational assistant that helps users with health-related queries. It asks symptom-based questions, provides general health guidance, suggests home remedies, and advises when to consult a doctor. The chatbot is not a diagnostic tool but serves as a preliminary guide for users seeking basic health information.
 
