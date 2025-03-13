@@ -3,17 +3,7 @@ Medoc is an AI Healthcare Chatbot is designed to provide users with RAG and gene
 
 Detailed view: 
      Medoc AI Healthcare Chatbot is an AI-powered conversational assistant that helps users with health-related queries. It asks symptom-based questions, provides general health guidance, suggests home remedies, and advises when to consult a doctor. The chatbot is not a diagnostic tool but serves as a preliminary guide for users seeking basic health information.
-
-Output:
-![image](https://github.com/user-attachments/assets/1cb74b5c-5970-47e0-82c7-e7e4cc16319a)
-
-![image](https://github.com/user-attachments/assets/ce862967-3e13-47b0-8349-92c2b107143e)
-
-![image](https://github.com/user-attachments/assets/1a47e996-7a8a-4b7c-b56f-86686ccec8b8)
-
-![image](https://github.com/user-attachments/assets/5ba9ecc0-93da-4036-9a13-993205427352)
-
-
+     
 This project is optimized for:
 	
  •	High Accuracy: Delivers precise and relevant health guidance.
